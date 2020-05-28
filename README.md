@@ -100,7 +100,7 @@ https://www.techmaish.com/devops-the-future-of-itsm-and-itil/
 6) VPC
 
 ## WINDOWS AZURE - SAAS & PAAS & IAAS
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/readme/DATACENTER_VIRTUAL_PARA_API_MANAGEMENT.PNG)
+![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/DATACENTER_VIRTUAL_PARA_API_MANAGEMENT.PNG)
 1) VNET  
 2) SQL Server Azure  
 3)   
@@ -112,5 +112,5 @@ https://www.techmaish.com/devops-the-future-of-itsm-and-itil/
 2) KUBERNETES
 
 ## SUPPORT API MANAGEMENT     
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/readme/API_MANAGEMENT_SUPORTE.PNG)
+![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_SUPORTE.PNG)
 
