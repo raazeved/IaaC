@@ -9,17 +9,19 @@ For further detail:
 ## IT Entrepreneurship and Startups
 
 ### 1 - Organization - We are in the Tech opportunities edge
-Somehow your new business model could give back productivity and effectiveness for your code within github|gitlab or Bitbucket depends on your abilities to rollout your idea inside Global Datacenters.    
+Somehow, your new business model could give back productivity and effectiveness for your code within github|gitlab or Bitbucket depends on your abilities to rollout your idea inside Global Datacenters.    
 ![DPD2](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AppLifecycleMgmt-DevOps-Code.png)
 
 And it's might generating the opportunity to life your apps in the real world and earn some money back advance your family.  
 
 ### 2 - Background in DataCenters - Deliverying expertise to companies
 
-I started as IT Professional career in 1994 as Dev in Arbame. I implemented CPD (1) as Datacenter Tier 3 and since there, I faced several changes in the IT infrastructured (2) and today we have a lot of opportunities if we learned about how to we can work together IT Infrastructure and dev of software (3).
+Despite I was Dev Dbase-Clipper since 1992, I started my IT Tech Professional career in 1994 in Arbame Company in the CPD (1) area, it was working with LABO Systems. 
 ![DPD3](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/CRAC_Design.jpeg)
 For further detail: 
 (1) https://pt.wikipedia.org/wiki/Centro_de_processamento_de_dados 
+
+After two year, I implemented a Datacenter Tier 2 with ERP Protheus, KSR CAD/CAM solutions and MRP II by Datafron factory. We faced several changes in the IT infrastructure and Dev SLDC since there (2). In general, We are still dealing with business requests and  the necessity to delivery Solutions as fast as we can just improving the business competitivity (3) in the market. And It's never stops.
 
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/CRAC_Implemented.jpg )
 
@@ -100,7 +102,7 @@ https://www.techmaish.com/devops-the-future-of-itsm-and-itil/
 6) VPC
 
 ## WINDOWS AZURE - SAAS & PAAS & IAAS
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/readme/DATACENTER_VIRTUAL_PARA_API_MANAGEMENT.PNG)
+![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/DATACENTER_VIRTUAL_PARA_API_MANAGEMENT.PNG)
 1) VNET  
 2) SQL Server Azure  
 3)   
@@ -112,5 +114,5 @@ https://www.techmaish.com/devops-the-future-of-itsm-and-itil/
 2) KUBERNETES
 
 ## SUPPORT API MANAGEMENT     
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/readme/API_MANAGEMENT_SUPORTE.PNG)
+![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_SUPORTE.PNG)
 
