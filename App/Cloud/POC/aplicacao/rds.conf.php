@@ -1,0 +1,1 @@
+<?php $RDS_URL='bootcamp.cqj2y1tm5boa.us-east-1.rds.amazonaws.com'; $RDS_DB='dados'; $RDS_user='admin'; $RDS_pwd='Senha123456'; ?>
