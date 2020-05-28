@@ -16,7 +16,7 @@ And it's might generating the opportunity to life your apps in the real world an
 
 ### 2 - Background in DataCenters - Deliverying expertise to companies
 
-I started as IT Professional career in 1994 as Dev in Arbame. I implemented CPD (1) as Datacenter Tier 3 and since there, I faced several changes in the IT infrastructured (2) and today we have a lot of opportunities if we learned about how to we can work together IT Infrastructure and dev of software (3).
+I started as IT Professional career in 1994 as Dev in Arbame CPD (1). After two year, I implemented Datacenter Tier 2 and since there, I faced several changes in the IT infrastructured (2) and today we have a lot of opportunities if we learned about how to we can work together IT Infrastructure and dev of software (3).
 ![DPD3](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/CRAC_Design.jpeg)
 For further detail: 
 (1) https://pt.wikipedia.org/wiki/Centro_de_processamento_de_dados 
