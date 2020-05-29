@@ -1,19 +1,14 @@
 # Digital Platforms on VDC [Release 1.0.0] 
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/customer-succs-Virtual-Datacenter.jpeg)
 
-### YOU CAN HIRE ME TO TRANSFORM AND TO ADVANCE YOUR COMPANY
-#### I'LL EXPLAIN TO YOU HOW I CAN DO IN THE FOLLOW BELLOW TOP INDEX:
+### YOU CAN HIRE ME TO HELP YOU IN DEACREASING 40% IT COST IN YOUR COMPANY NOWADAYS:
+#### I'LL SHOW YOU BELOW HOW YOU CAN START ORGANIZING YOUR VTC PROCESS AND INCREASE YOUR COMPANY AGILITY:
 
 #### I  - My CTO Life in Datacenters started in 1992s  
-
 #### II - IT VDC Entrepreneurship and Startups Revolutions
-
 #### III- IT VDC Managing and Theorical Basis
-
 #### IV - IT VDC Strategies for Business Alignment and Value Creation 
-
 #### V  - IT VDC BoilerPlate to Implementation Guideslines and to build your VDC Thru Shell Script   
-
 #### VI - IT VDC Application Services Management Support  
 
 ## I - My CTO Life in Datacenters   
