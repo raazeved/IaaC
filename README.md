@@ -1,15 +1,25 @@
-# Digital Platforms based in the Virtuals Datacenters
-## I - My CTO Life in Datacenters  
+# Digital Platforms based in the Virtuals Datacenters ( Release 1.0.0 )  
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/customer-succs-Virtual-Datacenter.jpeg)
+
+### INDEX      
+I  - My CTO Life in Datacenters started in 1992s  
+II - IT VDC Entrepreneurship and Startups Revolutions
+III- IT VDC Managing and Theorical Basis
+IV - IT VDC Strategies for Business Alignment and Value Creation 
+V  - IT VDC BoilerPlate to Implementation Guideslines and to build your VDC Thru Shell Script   
+VI - IT VDC Application Services Management Support  
+
+## I - My CTO Life in Datacenters   
+![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AzureDatacenterZonePlanning.png)
 
 For further detail: 
 (1) https://en.wikipedia.org/wiki/List_of_IBM_products 
 
 (2) https://en.wikipedia.org/wiki/History_of_hard_disk_drives#Timeline
 
-## II - IT Entrepreneurship and Startups REVOLUTIONS
+## II - IT VDC Entrepreneurship and Startups Revolutions
 
-## We are in the Tech opportunities edge
+## We are in the Tech Opportunities Edge
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/Startup_Piramid.png)
 
 ### 1 - Organize your Dev Flow - Design Ideas-Build-Deploy- review with Clients 
@@ -19,9 +29,9 @@ Somehow, your new business model could give back productivity and effectiveness 
 
 And it's might generating the opportunity to life your apps in the real world and earn some money back advance your family.  
 
-### 2 - MY Background started in DataCenters in 1992s   
+### 2 - MY Datacenter Background was started in 1992s
        
-Despite I was Dev Dbase-Clipper since 1992, I started my IT Tech Professional career in 1994 in Arbame Company in the CPD (1) area, it was working with LABO Cobol Systems. 
+Despite I'd been a Dev Dbase-Clipper since 1992, I started my IT Tech Professional career in 1994 in Arbame Company in the CPD (1) area, it was working with LABO Cobol Systems. 
 ![DPD3](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/CRAC_Design.jpeg)
 For further detail: 
 (1) https://pt.wikipedia.org/wiki/Centro_de_processamento_de_dados 
@@ -36,7 +46,7 @@ For further detail about Datacenter Concept:
 ### 3 - Build and Deliver solutions based on Datacenters 
 We noticed that there a mix based on On-premises | Cloud | Hosting | Mobile and IoT, so on. But Shell script from AWS, PowerShell from Azure, generated ability and the oportunities to create a Datacenter more fast then ever. You can release a Virtual Datacenter in minutes.
   
-# III - The Modern Data Center - Managing and Theorical Basis
+# III- IT VDC Managing and Theorical Basis
 
 ## 1 - How IT is Adapting to New Technologies and Hyperconnectivity
 Everthing is changing after cloud technology was available, you can increase your squad team produtivity a lot. Take a look on the mindset below, please: 
@@ -75,7 +85,8 @@ H) Escalation point for select high-risk service changes
 - ANSI/TIA-942-A (TIA - Telecommunications Industry Association; TIA-942 is Telecommunications infrastructure standard for datacenter). 
 - ANSI/BICSI 002
 
-# IV - Virtuals Datacenters - IT Strategies for Business Alignment and Value Creation 
+# IV - IT VDC Strategies for Business Alignment and Value Creation 
+
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/Stage_of_Digital_Datacenters_Usage.png)
 Further detail: https://medium.com/aelfblockchain/top-cloud-computing-platform-comparison-d12708bcc12c
 
@@ -87,7 +98,6 @@ There a lot of options to roll out your project nowaday, I remembered the dificu
 ## 2 - CIO VISION for the Interconnection Oriented Architecture™ (IOA)
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/Interconnection_Oriented_Architecture.png)
 
-![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AzureDatacenterZonePlanning.png)
 
 ### 2.1 ROLL OUT A BIG PICTURE FOR BANKING INDUSTRIES 
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/BANKING-BigPicture-IT_DEV_BUSINESS.png)
@@ -100,7 +110,7 @@ There a lot of options to roll out your project nowaday, I remembered the dificu
 Further more : 
 https://www.techmaish.com/devops-the-future-of-itsm-and-itil/
 
-# V - Virtuals Datacenters - BoilerPlate to Implementation Guideslines and build your Datacenter Thru shell Script   
+# V - IT VDC BoilerPlate to Implementation Guideslines and to build your VDC Thru Shell Script     
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AppLifecycleMgmt-DevOps-Code3.png)
 
 ## 1 - AWS SAAS & PAAS & IAAS ( https://console.aws.amazon.com/console/home?region=us-east-1#)  
@@ -131,7 +141,7 @@ e) App Services
 a) DROPLETS  
 b) KUBERNETES
 
-# VI - APPLICATION SERVICES MANAGEMEN SUPPORT  
+# VI - IT VDC Application Services Management Support  
 
 Getting Started after roll out in Prod - This Phase is a starting point for Application Services Management.
 
