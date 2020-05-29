@@ -1,14 +1,20 @@
 # Digital Platforms on VDC [Release 1.0.0] 
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/customer-succs-Virtual-Datacenter.jpeg)
 
-### YOU CAN HIRED ME TO TRANSFORM AND TO ADVANCE YOUR COMPANY 
-TOP INDEX 
-I  - My CTO Life in Datacenters started in 1992s  
-II - IT VDC Entrepreneurship and Startups Revolutions
-III- IT VDC Managing and Theorical Basis
-IV - IT VDC Strategies for Business Alignment and Value Creation 
-V  - IT VDC BoilerPlate to Implementation Guideslines and to build your VDC Thru Shell Script   
-VI - IT VDC Application Services Management Support  
+### YOU CAN HIRE ME TO TRANSFORM AND TO ADVANCE YOUR COMPANY
+#### I'LL EXPLAIN TO YOU HOW I CAN DO IN THE FOLLOW BELLOW TOP INDEX:
+
+#### I  - My CTO Life in Datacenters started in 1992s  
+
+#### II - IT VDC Entrepreneurship and Startups Revolutions
+
+#### III- IT VDC Managing and Theorical Basis
+
+#### IV - IT VDC Strategies for Business Alignment and Value Creation 
+
+#### V  - IT VDC BoilerPlate to Implementation Guideslines and to build your VDC Thru Shell Script   
+
+#### VI - IT VDC Application Services Management Support  
 
 ## I - My CTO Life in Datacenters   
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AzureDatacenterZonePlanning.png)
@@ -20,17 +26,18 @@ For further detail:
 
 ## II - IT VDC Entrepreneurship and Startups Revolutions
 
-## We are in the Tech Opportunities Edge
+## There are several Tech and Innovatives Opportunities in the market
+There a challenge to decrease time-to-market to roll out yours products, project and serveces in order to improving your Custormers Experience (CX). Follows bellow the PO/PM attention for Digital MVP Funnel.
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/Startup_Piramid.png)
 
-### 1 - Organize your Dev Flow - Design Ideas-Build-Deploy- review with Clients 
+### 1 - Organizing your Dev Flow for (1) Design Ideas (2) Build It (3)Deploy It (4)review with Clients (5) Add sth more & Run again 
 
 Somehow, your new business model could give back productivity and effectiveness for your code within github|gitlab or Bitbucket depends on your abilities to rollout your idea inside Global Datacenters.    
 ![DPD2](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AppLifecycleMgmt-DevOps-Code.png)
 
 And it's might generating the opportunity to life your apps in the real world and earn some money back advance your family.  
 
-### 2 - MY Datacenter Background was started in 1992s
+### 2 - MY Datacenter Background - I started in 1992s
        
 Despite I'd been a Dev Dbase-Clipper since 1992, I started my IT Tech Professional career in 1994 in Arbame Company in the CPD (1) area, it was working with LABO Cobol Systems. 
 ![DPD3](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/CRAC_Design.jpeg)
