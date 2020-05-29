@@ -1,12 +1,17 @@
 # Digital Platforms based in the Virtuals Datacenters
 ## I - My CTO Life in Datacenters  
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/customer-succs-Virtual-Datacenter.jpeg)
+
 For further detail: 
 (1) https://en.wikipedia.org/wiki/List_of_IBM_products 
+
 (2) https://en.wikipedia.org/wiki/History_of_hard_disk_drives#Timeline
 
 ## II - IT Entrepreneurship and Startups REVOLUTIONS
+
 ## We are in the Tech opportunities edge
+![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/Startup_Piramid.png)
+
 ### 1 - Organize your Dev Flow - Design Ideas-Build-Deploy- review with Clients 
 
 Somehow, your new business model could give back productivity and effectiveness for your code within github|gitlab or Bitbucket depends on your abilities to rollout your idea inside Global Datacenters.    
@@ -35,15 +40,14 @@ We noticed that there a mix based on On-premises | Cloud | Hosting | Mobile and 
 
 ## 1 - How IT is Adapting to New Technologies and Hyperconnectivity
 Everthing is changing after cloud technology was available, you can increase your squad team produtivity a lot. Take a look on the mindset below, please: 
-
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AppLifecycleMgmt-DevOps-Code2.png)
 
 ## 2 - Governance with Cobit Process - Service/Portfolio Governance
 The Service and Portfolio governance is a unified model across project and services that works in conjunction with the pillar structure that was introduced by COBIT and ITIL in early 2000. The main objective is to ensure that the investments being made in IT are in alignment with the strategic objective of the Businesses.
-
 ![DPD5](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/COBIT_IT_PROCESS_GOVERNANCE.png)
 
 Effective IT Governance at Your Fingertips. If you have time CISA or CISM are good certifications for accredittations.
+
 For further detail:  https://www.isaca.org/resources/cobit
 
 ## 3 - Technical Datacenters Parttners 
@@ -83,13 +87,15 @@ There a lot of options to roll out your project nowaday, I remembered the dificu
 ## 2 - CIO VISION for the Interconnection Oriented Architecture™ (IOA)
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/Interconnection_Oriented_Architecture.png)
 
-### ROLL OUT A BIG PICTURE FOR BANKING INDUSTRIES 
+![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AzureDatacenterZonePlanning.png)
+
+### 2.1 ROLL OUT A BIG PICTURE FOR BANKING INDUSTRIES 
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/BANKING-BigPicture-IT_DEV_BUSINESS.png)
-### ROLL OUT A BIG PICTURE FOR IA CHATBOT AUTOMATION
+### 2.2 ROLL OUT A BIG PICTURE FOR IA CHATBOT AUTOMATION
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AI_Chatbot-BigPicture-IT_DEV_BUSINESS.png)
-### ROLL OUT A BIG PICTURE FOR MICROSERVICES PERFORMANCE 
+### 2.3 ROLL OUT A BIG PICTURE FOR MICROSERVICES PERFORMANCE 
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/MICROSERVICES-BigPicture-IT_DEV_BUSINESS.png)
-### ROLL OUT A BIG PICTURE FOR PROCESS IMPROVEMENTS DEVOPS WITH ITIL  
+### 2.4 ROLL OUT A BIG PICTURE FOR PROCESS IMPROVEMENTS DEVOPS WITH ITIL  
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/devops-itil4.png)
 Further more : 
 https://www.techmaish.com/devops-the-future-of-itsm-and-itil/
@@ -97,35 +103,39 @@ https://www.techmaish.com/devops-the-future-of-itsm-and-itil/
 # V - Virtuals Datacenters - BoilerPlate to Implementation Guideslines and build your Datacenter Thru shell Script   
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AppLifecycleMgmt-DevOps-Code3.png)
 
-## AMAZON AWS VS DEVOPS - SAAS & PAAS & IAAS 
+## 1 - AWS SAAS & PAAS & IAAS ( https://console.aws.amazon.com/console/home?region=us-east-1#)  
 This AWS Diagram models how to set up a flexible, scalable AWS Cloud environment, and launches Bitbucket Data Center automatically into a configuration of your choice. Bitbucket gives professional teams of any size, across any distance, full control of their source code. Use this example to deploy Bitbucket Data Center on AWS in less than 30 minutes for instant scalability and flexibility.
-For further detail: 
+
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/IOA_WealthMgmt.jpg)
 
 In order to deliverying an autoscaling solution in AWS within datacenters zone you must need to configure the follow services list below. The script inside App/cloud and app/host will be able to test the configuration services results.
 
-1) Services Networking load balance (NLB)
-2) Services RDS 
-3) Services IAM 
-4) Services EC2 
-5) Services S3
-6) Services VPC
-7) Services Auto Scaling
+a) Services Networking load balance (NLB)
+b) Services RDS 
+c) Services IAM 
+d) Services EC2 
+e) Services S3
+f) Services VPC
+g) Services Auto Scaling
 
-## WINDOWS AZURE VS DEVOPS  SAAS & PAAS & IAAS
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/IOA_Apps.jpg)
-1) Virtual Networking (VNET)   
-2) App Server (Linux)  
-3) Sql Server Databases Azure   
-4) Resources Groups 
-5) App Services 
+## 2 - AZURE SAAS & PAAS & IAAS (https://portal.azure.com/)
+![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/IOA_Apps.jpg)
+a) Virtual Networking (VNET)   
+b) App Server (Linux)  
+c) Sql Server Databases Azure   
+d) Resources Groups 
+e) App Services 
 
-## DIGITAL OCEAN - VPC   
+## 3 - DIGITAL OCEAN VPC (https://cloud.digitalocean.com/projects/)   
 ![DPD4](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/IOA_Serverless_on_VPC.jpg)
-1) DROPLETS  
-2) KUBERNETES
+a) DROPLETS  
+b) KUBERNETES
 
-## SUPPORT FOR THE API MANAGEMENT ON AZURE - Project ApiSalesClouds     
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/DATACENTER_VIRTUAL_PARA_API_MANAGEMENT.PNG)
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_SUPORTE.PNG)
+# VI - APPLICATION SERVICES MANAGEMEN SUPPORT  
 
+Getting Started after roll out in Prod - This Phase is a starting point for Application Services Management.
+
+A few resources to get you started if this is your time in AMS process 
+
+- [ApiSalesClouds: API MANAGEMENT](https://github.com/raazeved/apiSalesCloud)
+- [eComm : e-Commerce Services ](https://github.com/raazeved/eComm )
