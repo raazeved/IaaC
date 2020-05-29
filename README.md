@@ -1,7 +1,8 @@
-# Digital Platforms based in the Virtuals Datacenters ( Release 1.0.0 )  
+# Digital Platforms on VDC [Release 1.0.0] 
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/customer-succs-Virtual-Datacenter.jpeg)
 
-### INDEX      
+### YOU CAN HIRED ME TO TRANSFORM AND TO ADVANCE YOUR COMPANY 
+TOP INDEX 
 I  - My CTO Life in Datacenters started in 1992s  
 II - IT VDC Entrepreneurship and Startups Revolutions
 III- IT VDC Managing and Theorical Basis
@@ -145,7 +146,10 @@ b) KUBERNETES
 
 Getting Started after roll out in Prod - This Phase is a starting point for Application Services Management.
 
-A few resources to get you started if this is your time in AMS process 
+A few resources to get you started if this is your time in ASM process 
 
 - [ApiSalesClouds: API MANAGEMENT](https://github.com/raazeved/apiSalesCloud)
 - [eComm : e-Commerce Services ](https://github.com/raazeved/eComm )
+
+For further detail: 
+https://en.wikipedia.org/wiki/Application_service_management
