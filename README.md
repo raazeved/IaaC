@@ -1,9 +1,10 @@
 # Digital Platforms on VDC [Release 1.0.0] 
+
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/customer-succs-Virtual-Datacenter.jpeg)
 
-### YOU CAN HIRE ME TO HELP YOU IN DEACREASING 40% IT COST IN YOUR COMPANY NOWADAYS:
-#### I'LL SHOW YOU BELOW HOW YOU CAN START ORGANIZING YOUR VTC PROCESS AND INCREASE YOUR COMPANY AGILITY:
+### Take a look on this resume to advance your ideas about Datacenter Infracture. I'll show you how to you can start organizing your VTC process and increase your company agility.
 
+### S U M M A R Y    
 #### I  - My CTO Life in Datacenters started in 1992s  
 #### II - IT VDC Entrepreneurship and Startups Revolutions
 #### III- IT VDC Managing and Theorical Basis
@@ -12,6 +13,7 @@
 #### VI - IT VDC Application Services Management Support  
 
 ## I - My CTO Life in Datacenters   
+See this picture below is view of present days. but When I started was common to implemented internals Datacenters. I faced several challenges before the Internet became a commodity.
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AzureDatacenterZonePlanning.png)
 
 For further detail: 
