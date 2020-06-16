@@ -2,7 +2,7 @@
 
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/customer-succs-Virtual-Datacenter.jpeg)
 
-### Take a look on this resume to advance your ideas about Datacenter Infracture. I'll show you how to you can start organizing your VTC process and increase your company agility.
+### Take a look on this resume to advance your ideas about Datacenter Infrastructure. I'll show you how to you can start organizing your VTC process and increase your company agility.
 
 ### S U M M A R Y    
 #### I  - My CTO Life in Datacenters started in 1992s  
