@@ -13,7 +13,7 @@
 #### VI - IT VDC Application Services Management Support  
 
 ## I - My CTO Life in Datacenters   
-This is the view of Datacenters in the world for roll out apps on Windows Azure. By the Way, when I started was common to implemented internals Datacenters. I faced several challenges before the Internet became a commodity.
+By the Way, This is the view of Datacenters in the world for roll out apps on Windows Azure, but when I started was common to implemented internals Datacenters. I faced several challenges before the Internet became a commodity.
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/AzureDatacenterZonePlanning.png)
 
 For further detail: 
