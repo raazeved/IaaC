@@ -24,7 +24,7 @@ For further detail:
 ## II - IT VDC Entrepreneurship and Startups Revolutions
 
 ## There are several Tech and Innovatives Opportunities in the market
-There a challenge to decrease time-to-market to roll out yours products, project and serveces in order to improving your Custormers Experience (CX). Follows bellow the PO/PM attention for Digital MVP Funnel.
+There are challenges to decrease time-to-market to roll out yours products, project and serveces in order to improving your Custormers Experience (CX). Follows bellow the PO/PM attention for Digital MVP Funnel.
 ![DPD1](https://github.com/raazeved/Digital_Platform_Datacenters/blob/master/readme/Startup_Piramid.png)
 
 ### 1 - Organizing your Dev Flow for (1) Design Ideas (2) Build It (3)Deploy It (4)review with Clients (5) Add sth more & Run again 
